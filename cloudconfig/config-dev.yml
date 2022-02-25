@@ -57,3 +57,4 @@ db:
 sysconfig:
   isDebug: true  #是否Debug
   swagger: true  #开启swagger
+age: old
